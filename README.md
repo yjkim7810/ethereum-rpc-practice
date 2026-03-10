@@ -1,1 +1,1 @@
-# ethereum-rpc-practice
+# 블록체인 2주차 실습 내용

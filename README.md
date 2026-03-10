@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ethereum RPC Practice
 
 ## 프로젝트 설명
@@ -25,3 +26,4 @@ node ./json-rpc/index.js
 \`\`\`bash
 node ./ethers/index.js
 \`\`\`
+=======
